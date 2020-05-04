@@ -50,17 +50,16 @@
     <section class="masonry-grid" id="work">
       <h2 class="sub-title">My Portfolio</h2>
       <div class="grid">
-          <div class="grid-item"><img src="images/img-16.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-1.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-2.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-13.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-5.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-6.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-7.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-8.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-12.jpg" alt=""></div>
-          <div class="grid-item"><img src="images/img-17.jpg" alt=""></div>
-          <!--<div class="grid-item"><img src="images/img-9.jpg" alt=""></div>-->
+          <div class="grid-item"><img src="images/one.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/two.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/three.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/four.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/five.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/six.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/seven.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/eight.jpg" alt=""></div>
+          <div class="grid-item"><img src="images/nine.jpg" alt=""></div>
+        <div class="grid-item"><img src="images/ten.jpg" alt=""></div>
       </div>
     </section>
 
