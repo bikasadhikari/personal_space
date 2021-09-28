@@ -38,7 +38,7 @@
                   data-origin-x="0.5"
                   data-origin-y="0.5">
             <li class="layer name" data-depth="0.90">Bikas Adhikari</li>
-            <li class="layer title" data-depth="0.50">Web Developer(Intermediate)</li>
+            <li class="layer title" data-depth="0.50">Web Developer</li>
             <li class="layer btn btn-main" data-depth="0.30">
               <a href="#" class="portfolio-btn">View Portfolio</a>
               <a href="#" class="contact-btn">Contact Me</a>
